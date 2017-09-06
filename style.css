@@ -1,14 +1,36 @@
+
 body {
+
     margin: 0;
+
 }
 
+
+
 header,footer {
+
     background-color: gray;
+
     color: white;
+
     overflow: hidden;  
+
     width: 100%;
+
+}
+
+section.row {
+    background-color: salmon;
+}
+
+section.col {
+    width: 33%;
+    float: left;
+    
 }
 
 div#content {
+
     margin: 10px;
+
 }
