@@ -5,8 +5,6 @@ body {
 
 }
 
-
-
 header,footer {
 
     background-color: gray;
@@ -33,4 +31,9 @@ div#content {
 
     margin: 10px;
 
+section.hero{
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: relative;
 }
